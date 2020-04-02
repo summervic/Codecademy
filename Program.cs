@@ -33,6 +33,8 @@ namespace ConsoleGame
         Console.SetCursorPosition(fruitCol, fruitRow);
         Console.Write(fruit);
 
+        // my Git hub change test
+        Console.WriteLine("Hello");
         // Capture user input
         ConsoleKeyInfo cki = Console.ReadKey(false);
         
